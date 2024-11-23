@@ -110,25 +110,27 @@ footer a:hover {
     margin-bottom: 40px;
 }
 
-.demo-grid {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
+.demo-section {
+    margin: 40px 0;
+    text-align: center;
 }
 
-.demo-item {
-    flex: 1;
+.demo-preview {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-.demo-image {
-    max-width: 250px;
+.preview-image {
     width: 100%;
     height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-.demo-item p {
+.demo-preview p {
     color: #666;
     font-size: 1.1em;
+    margin-top: 1rem;
 }
 
 .features {
