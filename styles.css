@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    color: #2c3e50;
+    color: #000000;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
@@ -100,7 +100,7 @@ footer a:hover {
 
 .hero h2 {
     font-size: 2.5em;
-    color: #2c3e50;
+    color: #000000;
     margin-bottom: 20px;
 }
 
@@ -141,7 +141,7 @@ footer a:hover {
 }
 
 .features h3 {
-    color: #2c3e50;
+    color: #000000;
     margin-bottom: 20px;
 }
 
