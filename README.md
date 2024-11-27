@@ -5,7 +5,7 @@ This repository contains the legal documents for the DeepText iOS app:
 - [Terms of Service](terms.html)
 
 ## Live Site
-The documents are published at: https://lemon-tea-ai.github.io/deeptext-legal/
+The documents are published at: https://lemon-tea-ai.github.io/deeptext/
 
 ## Local Development
 To test locally, you can use Python's built-in HTTP server: 
